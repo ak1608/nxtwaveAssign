@@ -8,7 +8,7 @@
     padding-top: 30px;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content:  space-between;
 
 }
 .toplogo{
@@ -199,24 +199,19 @@ margin-top: 15px;
     background-image:url(https://res.cloudinary.com/dy3sku9c7/image/upload/v1695153497/assignment/medium-shot-woman-looking-through-microscope-removebg-preview_1_rdxhqq.png) ;
     size: cover;
     background-repeat: no-repeat;
-    margin-top: 15px;
-    margin-left: 400px;
+     
+   background-position: right top;
   
 width: 514px;
 height: 521px;
+    
 
  
  
 
 }
 
-.topcard{
-    width: 166px;
-    height: 89px;
-    flex-shrink: 0;
-    background-color:#6E6E6E38 ;
 
-}
 .midContainer{
     display: flex;
     flex-direction: row;
@@ -240,4 +235,57 @@ height: 521px;
     flex-shrink: 0;
     text-align: center;
 
+}
+
+.topcard{
+    margin-top: 50px;
+    margin-left: 0px;
+    border-radius: 13px;
+background: rgba(110, 110, 110, 0.22);
+backdrop-filter: blur(12.5px);
+width: 200px;
+height: 89px;
+flex-shrink: 0;
+display: flex;
+flex-direction: row;
+justify-content: center;
+margin-bottom: 70px;
+
+
+}
+.topcard1{
+    margin-top: 50px;
+    margin-left: 60px;
+    border-radius: 13px;
+background: rgba(110, 110, 110, 0.22);
+backdrop-filter: blur(12.5px);
+width: 200px;
+height: 89px;
+flex-shrink: 0;
+display: flex;
+flex-direction: row;
+justify-content: center;
+margin-bottom: 70px;
+
+
+}
+
+ 
+.eclipse{
+    width: 50px;
+height: 50px;
+flex-shrink: 0;
+margin-right: 35px;
+margin-top: 15px;
+
+}
+
+.tcdesc{
+    display: flex;
+width: 85px;
+height: 32.118px;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+margin-top: 20px;
 }

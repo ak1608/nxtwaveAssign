@@ -48,16 +48,34 @@ const Toplanding =()=>(
             </div>
 
         </div>
-        <div>
+        <div className="topright">
             <div className="midContainer">
                     <p  className="midTitle"><span className="exp">Best in Class</span>Lab Tests!</p>
                 </div>
                 <div className="midContainer">
                 <img src="https://res.cloudinary.com/dy3sku9c7/image/upload/v1695144451/assignment/Vector_2_dtgoga.png" className="bluestr" />
             </div>
-
             <div className="right">
+                <div className="topcard">
+                        <img src="https://res.cloudinary.com/dy3sku9c7/image/upload/v1695156324/assignment/Ellipse_1_1_rf4m5r.svg" className="eclipse" />
+                        <p className="tcdesc">Timely Sample Collection</p>
+
+                </div>
+                <div className="topcard1">
+                        <img src="https://res.cloudinary.com/dy3sku9c7/image/upload/v1695156324/assignment/Ellipse_2_kmygjc.svg" className="eclipse" />
+                        <p className="tcdesc">Timely Sample Collection</p>
+
+                </div>
+                <div className="topcard">
+                        <img src="https://res.cloudinary.com/dy3sku9c7/image/upload/v1695156324/assignment/Ellipse_3_omoxdx.svg" className="eclipse" />
+                        <p className="tcdesc">Timely Sample Collection</p>
+
+                </div>
+                
+
+                    
             </div>
+             
         
         </div>
 
