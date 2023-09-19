@@ -44,17 +44,93 @@ color: white;
 
 .serv{
     color: #FFF;
-    text-align: start;
     text-align: center;
+     
 }
 
 .footertop{
     display: flex;
     flex-direction: row;
+    justify-self: start;
     
 
 }
 .lis{
     list-style-type: none;
-    text-align: start;
+    text-align: left;
+    color: white;
 }
+.footerlis{
+    text-align: left;
+   
+    margin: 20px;
+    margin-top: 100px;
+}
+.footerlogo{
+    width: 137px;
+    height: 137px;
+    flex-shrink: 0;
+     
+
+}
+.footerpara{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 150% */
+    max-width: 470px;
+
+}
+.topleft{
+    display: flex;
+    flex-direction: column;
+    margin:10px
+}
+.phone{
+    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(12.5px);
+    width: 471px;
+    height: 88px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.call{
+    color: white;
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    margin :5px
+
+}
+.vl {
+    width: 1px;
+    height: 64px;
+    color: #FFF;
+  }
+  .callcontainer{
+    width: 117px;
+    height: 88px;
+    flex-shrink: 0;
+    background-color: #00A6FF;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+    
+     
+
+  }
+  .callno{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; /* 145.833% */
+margin: 15px;
+  }
