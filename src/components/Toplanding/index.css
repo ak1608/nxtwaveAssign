@@ -6,6 +6,9 @@
     height: 855px;
     flex-shrink: 0;
     padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 
 }
 .toplogo{
@@ -189,5 +192,52 @@ margin-top: 15px;
 }
 .orgprice{
     text-decoration: line-through;
+
+}
+
+.right{
+    background-image:url(https://res.cloudinary.com/dy3sku9c7/image/upload/v1695153497/assignment/medium-shot-woman-looking-through-microscope-removebg-preview_1_rdxhqq.png) ;
+    size: cover;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-left: 400px;
+  
+width: 514px;
+height: 521px;
+
+ 
+ 
+
+}
+
+.topcard{
+    width: 166px;
+    height: 89px;
+    flex-shrink: 0;
+    background-color:#6E6E6E38 ;
+
+}
+.midContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+     
+}
+.midTitle{
+    color: #333;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 70px; /* 145.833% */
+    text-align: center;
+    margin: 10px;
+}
+.bluestr{
+    width: 262px;
+    height: 19px;
+    flex-shrink: 0;
+    text-align: center;
 
 }

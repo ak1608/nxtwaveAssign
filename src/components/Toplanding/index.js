@@ -48,6 +48,18 @@ const Toplanding =()=>(
             </div>
 
         </div>
+        <div>
+            <div className="midContainer">
+                    <p  className="midTitle"><span className="exp">Best in Class</span>Lab Tests!</p>
+                </div>
+                <div className="midContainer">
+                <img src="https://res.cloudinary.com/dy3sku9c7/image/upload/v1695144451/assignment/Vector_2_dtgoga.png" className="bluestr" />
+            </div>
+
+            <div className="right">
+            </div>
+        
+        </div>
 
 
 
