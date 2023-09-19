@@ -3,6 +3,7 @@
     height: 83px;
     flex-shrink: 0;
     background: #FFF;
+    
 }
 
 .logo-container{
@@ -24,4 +25,78 @@
     height: 64px;
     flex-shrink: 0;
 
+}
+.group1{
+    width: 423px;
+    height: 41.5px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 118px;
+    margin-right: 90px;
+     
+     
+
+}
+.hometext{
+    width: 45px;
+    height: 40.488px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+
+}
+.healthtext{
+    width: 133px;
+    height: 40.488px;
+    flex-shrink: 0;
+    color: yellow;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 250% */
+
+}
+
+.labtext{
+    height: 40.488px;
+    flex-shrink: 0;
+    color: #138ED1;;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px; /* 200% */
+    
+}
+
+.medicinestext{
+    width: 78px;
+    height: 40.488px;
+    flex-shrink: 0;
+    color: black;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 250% */
+
+}
+.forpatients{
+    width: 113px;
+    height: 35px;
+    color: #FFF;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #00486C;
+
+}
+.btt{
+    margin-left: 50px;
 }
