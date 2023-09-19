@@ -37,6 +37,16 @@ const Toplanding =()=>(
                 
             </form>
 
+            <div className="offers">
+                <div className="leftoff">
+                    <p className="offertext">Get a Full Body Checkup Now at <span className="orgprice">Rs 5999 </span> <span>Rs 999</span></p>
+                </div>
+                <div className="rightoff">
+                    <p className="seventy">70% OFF</p>
+                </div>
+
+            </div>
+
         </div>
 
 

@@ -87,7 +87,7 @@ const Footer =() =>(
 
 
         
-        <p  className="check">hrssssll</p>
+        
         <hr className="hrline"  />
         <div className="copyright">
             <PiCopyrightFill className="icon" />

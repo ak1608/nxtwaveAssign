@@ -99,4 +99,22 @@
 }
 .btt{
     margin-left: 50px;
+    background: black;
+}
+
+.forplaystore{
+    width: 113px;
+    height: 35px;
+    color: #FFF;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: black;
+
+}
+
+.plogo{
+    width: 21px;
+height: 20.588px;
+flex-shrink: 0;
+
 }

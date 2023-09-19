@@ -36,7 +36,8 @@ const Header = () => (
                     <button className="forpatients m-1">For Hospitals</button>
                 </div>
                 <div className="btt">
-                    <button className="forpatients m-1">Play Store</button>
+                    <img src="https://res.cloudinary.com/dy3sku9c7/image/upload/v1695152222/assignment/Rectangle_48_gebhtk.png" className="plogo" />
+                    <button className="forplaystore m-1" >Play Store</button>
                 </div>
             
 
