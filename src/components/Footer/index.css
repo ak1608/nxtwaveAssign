@@ -1,0 +1,43 @@
+.footerContainer{
+    width: 1440px;
+height: 811px;
+flex-shrink: 0;
+background: #1F1F1F;
+
+
+
+}
+ 
+.check{
+    color: white;
+}
+
+.hrline{
+    color: white;
+    width: 1391px;
+    height: 3px;
+    margin:20px;
+}
+
+.copyText{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; /* 150% */
+color: white;
+     
+}
+.icon{
+    color: white;
+    width: 27px;
+    height: 30px;
+    flex-shrink: 0;
+    margin :5px
+
+}
+.copyright{
+    display: flex;
+    flex-direction: row;
+}
