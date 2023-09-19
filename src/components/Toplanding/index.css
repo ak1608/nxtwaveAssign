@@ -1,0 +1,37 @@
+
+
+.bgcontainer{
+    background: linear-gradient(90deg, #75CFFF -17.97%, rgba(117, 207, 255, 0.00) 54.75%);
+    width: 1440px;
+    height: 855px;
+    flex-shrink: 0;
+
+}
+.toplogo{
+    width: 60px;
+    height: 66px;
+    flex-shrink: 0;
+    background:  lightgray 50% / cover no-repeat;
+
+}
+.para{
+    color: #333;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 100% */
+margin-top: 15px;
+}
+.acContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin:2px
+}
+.accred{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin:2px
+}
