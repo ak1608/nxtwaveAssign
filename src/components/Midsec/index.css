@@ -91,4 +91,95 @@ text-align: center;
 margin-top: 40px;
 
 }
+.testcard{
+    background: #FFF;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.25);
+width: 353px;
+height: 339px;
+flex-shrink: 0;
+margin: 20px;
+
+}
+.star{
+    width: 24px;
+height: 24px;
+flex-shrink: 0;
+color: #E2E700;
+
+}
+
+.bookbutt{
+    
+text-align: center;
+
+
+}
+.book{
+    border-radius: 6px;
+background: #008DD9;
+color: #FFF;
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+
+line-height: 20px; /* 100% */
+margin-top: 20px;
+
+}
+.testheading{
+    color: #2F2F2F;
+font-family: Montserrat;
+font-size: 28px;
+font-style: normal;
+font-weight: 600;
+line-height: 40px; /* 142.857% */
+text-align: center;
+margin-top: 15px;
+margin-bottom: 10px;
+}
+
+.rev{
+    color: #6E6E6E;
+    text-align: center;
+
  
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 100% */
+margin-left: 5px;
+margin-top: 35px;
+
+}
+.numb{
+color: #2F2F2F;
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 40px; /* 200% */
+margin-left: 5px;
+text-align: center;
+
+}
+
+.poffer{
+    color: #2F2F2F;
+ 
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px; /* 100% */
+text-align: center;
+}
+.sploff{
+    text-decoration: line-through;
+}
+.testcardcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
