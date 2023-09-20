@@ -183,3 +183,85 @@ text-align: center;
     flex-direction: row;
     justify-content: space-evenly;
 }
+.bottomcontainer{
+    width: 2078px;
+height: 1604px;
+flex-shrink: 0;
+fill: rgba(0, 166, 255, 0.09);
+background-color: #00A6FF17;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+
+ 
+ 
+
+}
+
+.imgcontainer{
+    background-image: url("https://res.cloudinary.com/dy3sku9c7/image/upload/v1695192565/assignment/expressive-young-woman-posing-studio-removebg-preview-transformed_1_1_ikjvyd.png");
+background-repeat: no-repeat;
+width: 874px;
+height: 707px;
+flex-shrink: 0;
+background-position: top left;
+
+}
+.valuecontainer{
+    display: flex;
+    flex-direction: row;
+     
+ 
+ 
+ 
+ 
+   
+}
+.valuecard{
+    width: 373px;
+height: 226px;
+flex-shrink: 0;
+    border-radius: 33px;
+background: #FFF;
+box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.25);
+margin-top: 80px;
+margin-left: 60px;
+
+
+}
+.aclogo{
+    height: 60px;
+    width: 60px;
+    flex-shrink: 0;
+    margin-top: 50px;
+    border-radius: 30px;
+    margin-left: 0px;
+
+}
+.head{
+    color: #2F2F2F;
+font-family: Montserrat;
+font-size: 28px;
+font-style: normal;
+font-weight: 600;
+margin: 10px;
+line-height: 35px; /* 125% */
+
+}
+.valuepara{
+    color: #2F2F2F;
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 133.333% */
+margin: 10px;
+}
+.copydown{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+ 

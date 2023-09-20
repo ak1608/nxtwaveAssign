@@ -125,6 +125,79 @@ const Midsec =() =>(
         
         
     </div>
+    <div className="bottomcontainer">
+        <div>
+            <div className="valuecontainer">
+                <div className="valuecard">
+                    <h1 className="head">NABL Accredited<br/> Labs</h1>
+                    <p className="valuepara">Get accurate and safe results from our NABL-certified lab partners.  </p>
+
+                </div>
+                <img src="https://res.cloudinary.com/dy3sku9c7/image/upload/v1695142501/assignment/Rectangle_80_czfeaw.png" className="aclogo" />
+                
+                    
+
+            </div>
+            <div className="valuecontainer">
+                <div className="valuecard">
+                    <h1 className="head">Timely<br/>  collections</h1>
+                    <p className="valuepara">We collect samples timely to prevent treatment delays and ensure your continued well-being.   </p>
+
+                </div>
+                <img src="https://res.cloudinary.com/dy3sku9c7/image/upload/v1695194988/assignment/Ellipse_13_mlgkxk.svg" className="aclogo" />
+                
+                    
+
+            </div>
+        </div>
+        <div className="copydown">
+            <div>
+                <div className="valuecontainer">
+                    <div className="valuecard">
+                        <h1 className="head">NABL Accredited<br/> Labs</h1>
+                        <p className="valuepara">Get accurate and safe results from our NABL-certified lab partners.  </p>
+
+                    </div>
+                    <img src="https://res.cloudinary.com/dy3sku9c7/image/upload/v1695142501/assignment/Rectangle_80_czfeaw.png" className="aclogo" />
+                    
+                        
+
+                </div>
+                <div className="valuecontainer">
+                    <div className="valuecard">
+                        <h1 className="head">Timely<br/>  collections</h1>
+                        <p className="valuepara">We collect samples timely to prevent treatment delays and ensure your continued well-being.   </p>
+
+                    </div>
+                    <img src="https://res.cloudinary.com/dy3sku9c7/image/upload/v1695194988/assignment/Ellipse_13_mlgkxk.svg" className="aclogo" />
+                    
+                        
+
+                </div>
+                
+            </div>
+            <div className="imgcontainer">
+
+                </div>
+            
+        </div>
+
+        
+
+        
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
     </>
 )
 
